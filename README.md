@@ -4,6 +4,15 @@ A high-performance, modular MATLAB toolkit designed for rigorous numerical compu
 
 ---
 
+> *A personal numerical analysis library developed during my aerospace engineering studies to bridge the gap between rigorous mathematical modeling and efficient scientific software.*
+
+## About This Project
+As an aerospace engineering student, I built this repository to move beyond theoretical derivations and implement robust, production-grade numerical solvers from scratch. Whether dealing with fluid dynamics phenomena (advection-diffusion-reaction equations) or system dynamics, this library was designed with a focus on:
+* **Mathematical Rigor:** Strict enforcement of stability conditions and boundary corrections.
+* **Engineering Efficiency:** Heavy reliance on vectorized operations and sparse matrix structures to handle large-scale grids.
+* **Independence:** Pure MATLAB implementation without relying on proprietary toolboxes.
+---
+
 ## Key Features & Modules
 
 ### 1. Nonlinear Equations & Optimization
